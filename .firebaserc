@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "family-recipes-d806b"
+  },
+  "targets": {
+    "family-recipes-d806b": {
+      "hosting": {
+        "kennys-kitchen": [
+          "from-kennys-kitchen"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

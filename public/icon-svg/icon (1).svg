@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="110" fill="#3d1a24"/>
+
+  <!-- Book cover -->
+  <rect x="68" y="56" width="376" height="400" rx="14" fill="#6b2737"/>
+
+  <!-- Slim spine -->
+  <rect x="68" y="56" width="22" height="400" rx="8" fill="#2a0e14"/>
+
+  <!-- Spine lines -->
+  <line x1="74" y1="120" x2="86" y2="120" stroke="#c9a84c" stroke-width="2" opacity="0.6"/>
+  <line x1="74" y1="256" x2="86" y2="256" stroke="#c9a84c" stroke-width="2" opacity="0.6"/>
+  <line x1="74" y1="392" x2="86" y2="392" stroke="#c9a84c" stroke-width="2" opacity="0.6"/>
+
+  <!-- Gold border -->
+  <rect x="102" y="72" width="330" height="368" rx="10" fill="none" stroke="#c9a84c" stroke-width="5"/>
+
+  <!-- FAMILY text -->
+  <text x="267" y="234" text-anchor="middle" fill="#c9a84c" font-size="56" font-weight="700" font-family="Georgia, serif" letter-spacing="6">FAMILY</text>
+
+  <!-- RECIPES text -->
+  <text x="267" y="306" text-anchor="middle" fill="#c9a84c" font-size="56" font-weight="700" font-family="Georgia, serif" letter-spacing="4">RECIPES</text>
+
+  <!-- Line under RECIPES -->
+  <line x1="114" y1="328" x2="420" y2="328" stroke="#c9a84c" stroke-width="3" opacity="0.7"/>
+
+  <!-- Heart -->
+  <path d="M267 406 C267 406 232 382 232 358 C232 343 243 334 254 338 C259 340 264 347 267 354 C270 347 275 340 280 338 C291 334 302 343 302 358 C302 382 267 406 267 406Z" fill="#c9a84c"/>
+
+</svg>
